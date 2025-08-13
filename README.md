@@ -24,6 +24,7 @@
 
 | Company                                   | Role                         | Focus             |
 | ----------------------------------------- | ---------------------------- | ----------------- |
+| **[Stashfi](https://github.com/Bboissen/Stashfi)** | Founder / Full stack | DEX - DeFi |
 | **[SoltyBet](https://x.com/SoltyBet)** | CoFounder / Backend / DevOps | Blockchain Gaming |
 
 </div>
