@@ -24,14 +24,11 @@
 
 | Company                                   | Role                         | Focus             |
 | ----------------------------------------- | ---------------------------- | ----------------- |
-| **[Stashfi](https://github.com/Bboissen/Stashfi)** | Founder / Full stack | DEX - DeFi |
 | **[SoltyBet](https://x.com/SoltyBet)** | CoFounder / Backend / DevOps | Blockchain Gaming |
 
 </div>
 
 ### 🎯 Career Goals
-
-- 🚀 Successfully launch the Stashfi DEX
 - 🏢 Excel as a Backend, DevOps, and Smart Contract Engineer
 - 🌐 Contribute to the early growth of a Web3 unicorn
 
