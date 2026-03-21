@@ -6,31 +6,13 @@
 
 🎓 **42 School Lyon Graduate** — Completed the Common Core, now specializing in Backend and DevOps.
 
-💻 **Backend & DevOps Developer** passionate about low-level programming, robust architecture, and clean, well-documented code.
+💻 **Backend & DevOps Developer** passionate about low-level programming, distributed architecture, and clean, well-documented code.
 
 🔗 **Blockchain Enthusiast** dedicated to building the next generation of decentralized applications.
 
-🎯 **Current Focus:** Leveraging Kubernetes, Rust, and Solidity to develop a DEX with CEX-grade features.
+🎯 **Current Focus:** Leveraging Rust, Docker, DevOps, CICD, Terraform.
 
 🌍 **Open to:** Global Web3 opportunities — remote-friendly startups and freelance projects.
-
----
-
-## 💼 Professional Experience
-
-### Blockchain Ecosystem Involvement
-
-<div align="center">
-
-| Company                                   | Role                         | Focus             |
-| ----------------------------------------- | ---------------------------- | ----------------- |
-| **[SoltyBet](https://x.com/SoltyBet)** | CoFounder / Backend / DevOps | Blockchain Gaming |
-
-</div>
-
-### 🎯 Career Goals
-- 🏢 Excel as a Backend, DevOps, and Smart Contract Engineer
-- 🌐 Contribute to the early growth of a Web3 unicorn
 
 ---
 
@@ -38,12 +20,12 @@
 
 <div align="center">
 
-| Project                                                            | Description                                                                                                                                                                                                                                                                                                                               |
-| ------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [🎲 SoltyBet](https://github.com/Talibabtou/soltybet)                 | *Blockchain Betting Platform*`<br>` Decentralized betting application`<br>`• Smart contract integration`<br>`• Single Page Application`<br>`**Tech:** Docker, Rust, Solana, Python, TypeScript, Prometheus, Grafana                                                                                                     |
-| [🎮 ft_transcendence](https://github.com/Talibabtou/ft_transcendence) | *42 School Capstone Project*`<br>`• Full-stack web application`<br>` NodeJS backend with microservice Docker architecture`<br>`• Single, multiplayer, and tournament features`<br>`**Tech:** Docker, TypeScript, Node.js, Prometheus, Grafana                                                                           |
-| [🌐 42 Webserver CPP](https://github.com/Bboissen/webserv)            | *C++98 Web Server Implementation*`<br>`• Built from scratch with minimal external libraries`<br>`• Focus on low-level networking and HTTP protocol`<br>`• Handles multiple clients, CGI, and configuration parsing`<br>`**Tech:** C++98                                                                                |
-| [👾 42 Minishell C](https://github.com/Bboissen/42-minishell)     | *Custom Unix Shell in C*`<br>`• Designed with a strong emphasis on robust error handling and careful memory management`<br>`• Implements process control, job management, and signal handling from the ground up`<br>`• Features built-in commands, advanced piping, and flexible redirection support`<br>`**Tech:** C |
+| Project | Description |
+|--------|------------|
+| [🎲 SoltyBet](https://github.com/Talibabtou/soltybet) | **Blockchain Betting Platform**<br>Decentralized betting application<br>• Smart contract integration<br>• Single Page Application<br>• Internal Oracle<br>**Tech:** Docker, Rust, Solana, Python, TypeScript, Prometheus, Grafana |
+| [🎮 ft_transcendence](https://github.com/Bboissen/ft_transcendence) | **42 School Capstone Project**<br>• Full-stack web application - Pong Game<br>• NodeJS backend with microservice Docker architecture<br>• Single, multiplayer, and tournament features<br>**Tech:** Docker, TypeScript, Node.js, Prometheus, Grafana |
+| [🌐 42 Webserver CPP](https://github.com/Bboissen/webserv) | **C++98 Web Server Implementation**<br>• Built from scratch with minimal external libraries<br>• Focus on low-level networking and HTTP protocol<br>• Handles multiple clients, CGI, and configuration parsing<br>**Tech:** C++98 |
+| [👾 42 Minishell C](https://github.com/Bboissen/42-minishell) | **Custom Unix Shell in C**<br>• Designed with a strong emphasis on robust error handling and careful memory management<br>• Implements process control, job management, and signal handling from the ground up<br>• Features built-in commands, advanced piping, and flexible redirection support<br>**Tech:** C |
 
 </div>
 
@@ -77,13 +59,8 @@
 ### 🌱 Currently Learning
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Solana-14F195?style=for-the-badge&logo=solana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
 </div>
 
 ---
